@@ -7,7 +7,7 @@ Computer Engineering student focused on building structured, responsive, and use
 
 🔗 **Live UI Demo:** https://safebyte-5gxw.onrender.com/
 
-**My Scope:** Frontend UI Architecture & Component Standardization.
+**My Scope:** Frontend UI Architecture & Component Standardization. 
 **Tech Stack:** HTML5, CSS3, JavaScript, UI Mockups, REST API Consumption.
 
 **Key Frontend Contributions:**
